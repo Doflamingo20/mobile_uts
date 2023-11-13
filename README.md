@@ -290,7 +290,9 @@ public class MainActivity extends AppCompatActivity {
 
 
 
-https://github.com/Doflamingo20/mobile_uts/assets/130146099/d04fcb36-2208-470c-a614-45123ecab364
+https://github.com/Doflamingo20/mobile_uts/assets/130146099/6909b416-0f1d-40e2-8468-86ee3e557327
+
+
 
 
 
