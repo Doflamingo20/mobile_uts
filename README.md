@@ -286,7 +286,8 @@ public class MainActivity extends AppCompatActivity {
 
 ## Hasil Design
 
-![ss dimas](https://github.com/Doflamingo20/mobile_uts/assets/130146099/6f521fcf-51b8-4f54-84e8-0c9d1355d748)
+![ss dimas](https://github.com/Doflamingo20/mobile_uts/assets/130146099/e3edd82b-33e0-4661-b986-421a97f3cf0d)
+
 
 
 
